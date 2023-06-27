@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @lujun5048
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lujun5048/lujun5048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 你好，我是卢军
+- 👀 我对Web3开发感兴趣。
+- 🌱 我目前正在学习 Java
+- 💞️ 我希望能在未来找到合适的工作
